@@ -1,3 +1,9 @@
-.img-border {
-  border: 2px solid #333;
+.container-fluid {
+  padding-right: 60px;
+  padding-left: 60px;
+
+}
+
+.icon-align-vert {
+  vertical-align:middle;
 }
