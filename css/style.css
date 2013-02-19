@@ -4,6 +4,61 @@
 
 }
 
+.crew-member {
+  display: inline-block;
+  position: relative;
+  width: 65%;
+  margin: 10px 6px;
+  margin-bottom: -60px;
+}
+
+.crew-member p {
+  margin: 10px 0px;
+}
+
+.description {
+  line-height: 1em;
+
+}
+
+.crew {
+  margin: 0 auto;
+  width:90%;
+}
+
+.fullname {
+  /*float: left;*/
+  font-size: 2.5em;
+  font-weight: bold;
+  line-height:1em;
+
+}
+
+.crew-member img {
+  display:inline-block;
+  float:left;
+  margin-right: 10px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  min-width:150px;
+  border: 4px solid #333;
+}
+
 .icon-align-vert {
   vertical-align:middle;
+}
+
+.media {
+  margin-top: 0px;
+  width: 45%;
+  float: left;
+}
+
+
+.row-fluid {
+  margin: 20px 0px;
+}
+
+.media:first-child {
+  margin-top: 0px;
 }
