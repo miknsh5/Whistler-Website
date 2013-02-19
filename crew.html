@@ -602,6 +602,16 @@
     </script>
     <script src="js/bootstrap.min.js">
     </script>
+
+    <script>
+      $(".row-fluid").find("img").mouseover(function(){
+        $(this).stop().animate({ marginLeft: "10px" }, 80);
+      });
+      $(".row-fluid").find("img").mouseout(function(){
+        $(this).stop().animate({ marginLeft: "0px" }, 80);
+      });
+    </script>
+
   </body>
 
 </html>
