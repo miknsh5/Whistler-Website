@@ -19,6 +19,15 @@
   -o-transition: background-color 0.5s;
 }
 
+.row .img-circle {
+  border: 8px solid #666;
+}
+
+.clip {
+  margin-bottom: 60px;
+  margin-top: 20px;
+
+}
 .hover1 {
   background-color:#fff;
 }
