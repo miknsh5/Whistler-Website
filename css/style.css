@@ -4,6 +4,50 @@
 
 }
 
+.adblock {
+  width: 350px;
+  display: inline-block;
+  padding: 9px 35px;
+  vertical-align: top;
+  margin: 10px 10px;
+
+  background-color:#dff0d8;
+  transition: background-color 0.5s;
+  -moz-transition: background-color 0.5s;
+  -webkit-transition: background-color 0.5s;
+  -o-transition: background-color 0.5s;
+}
+
+.hover1 {
+  background-color:#fff;
+}
+
+.adblock p {
+  display: inline-block;
+  border-top: 3px dotted gray;
+}
+
+.adblock h2 {
+  display: inline-block;
+  float: left;
+}
+
+.adblock .badge {
+  position: relative;
+  right: -11px;
+  top: 11px;
+  height: 35px;
+  font-size: 2em;
+  line-height: 1.2em;
+  width: 30px;
+  text-align: center;
+}
+
+.inner {
+  width:80%;
+  margin: 0 auto;
+}
+
 .crew-member {
   display: inline-block;
   position: relative;
