@@ -5,6 +5,11 @@
 
 }
 
+.commentarea {
+  margin: 0 auto;
+  width:80%;
+}
+
 .adblock {
   width: 350px;
   display: inline-block;
