@@ -113,6 +113,10 @@
   margin: 20px 0px;
 }
 
+.discuss_thread {
+   width: 80%;
+   margin: 0 auto;
+}
 .media:first-child {
   margin-top: 0px;
 =======
