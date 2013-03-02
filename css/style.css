@@ -10,6 +10,28 @@
   width:80%;
 }
 
+.oh-shit-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 3px;
+  background-color: rgba(86, 102, 4, .2);
+  padding: 20px;
+}
+
+.oh-shit-wrapper p{
+  line-height:1.8em;
+}
+
+
+.oh-shit-wrapper .oh-shit .label{
+  font-size: 1.4em;
+  height:1em;
+  width: 25px;
+  text-align:center;
+  padding-top: 5px;
+
+}
+
 .adblock {
   width: 350px;
   display: inline-block;
